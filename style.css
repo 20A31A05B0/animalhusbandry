@@ -6139,3 +6139,39 @@ a.plyr__control:before {
 .embla__slide {
     flex: 0 0 100%
 }
+.chat-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    z-index: 9999;
+  }
+  
+  .chat-header {
+    background-color: #9e380d;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .chat-toggle {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .chat-content {
+    display: none;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    /*overflow-y: scroll;*/
+    max-height: 300px;
+  }
+  
+  .chat-container.open .chat-content {
+    display: block;
+  }  
