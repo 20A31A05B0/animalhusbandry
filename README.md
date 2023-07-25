@@ -7,7 +7,7 @@ This is web based application developed for educational perpose related website 
 
 *** project link : https://20a31a05b0.github.io/animalhusbandry/
 *** Project link : https://icy-smoke-04d1b6310.3.azurestaticapps.net/
-*** Video link : https://youtu.be/dr3UqvlrGMg
+*** Demo Video link : https://youtu.be/dr3UqvlrGMg
 
 ### Azure Technology :
 Azure Bot Services,
