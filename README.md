@@ -10,7 +10,7 @@ This is web based application developed for educational perpose related website 
 *** Video link : https://youtu.be/dr3UqvlrGMg
 
 ### Azure Technology :
-Azure Bot Services
+Azure Bot Services,
 Static Web Apps
 
 ### Features and Functionality :
@@ -21,7 +21,12 @@ Static Web Apps
 # Screenshots :
 <img width="1440" alt="Screenshot 2023-07-25 at 7 49 39 PM" src="https://github.com/20A31A05B0/animalhusbandry/assets/102505935/3facba15-5088-4477-87b3-4a1e7e019d87">
 
+
+Pages :
+
 <img width="1440" alt="Screenshot 2023-07-25 at 8 29 29 PM" src="https://github.com/20A31A05B0/animalhusbandry/assets/102505935/e23c6ed5-bc2f-4d94-8af7-401c9a7f3912">
+
+Information :
 
 <img width="1440" alt="Screenshot 2023-07-25 at 8 29 35 PM" src="https://github.com/20A31A05B0/animalhusbandry/assets/102505935/4ea9a951-8b4f-46c8-894b-beac560af394">
 
